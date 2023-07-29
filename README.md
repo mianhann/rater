@@ -1,12 +1,12 @@
-# Project name here
-> Summary description here.
+# rater
+> Gather aggregated ratings for S&P500 stocks.
 
 
 This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install rater`
 
 ## How to use
 
